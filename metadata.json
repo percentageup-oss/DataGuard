@@ -1,0 +1,6 @@
+{
+  "name": "DataGuard",
+  "description": "Mobile and hotspot data tracker with daily snapshots, usage alerts, per-app breakdown, and widgets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

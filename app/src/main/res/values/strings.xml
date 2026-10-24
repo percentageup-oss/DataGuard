@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataGuard</string>
+    <string name="widget_description">Shows mobile data remaining, daily usage, and billing cycle days left.</string>
+</resources>
